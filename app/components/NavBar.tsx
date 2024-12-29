@@ -6,7 +6,7 @@ const Navbar = () => {
       {/* Logo and Name */}
       <div className="flex items-center">
         <img src="/logo.jpeg" alt="Logo" className="h-10 mr-3 rounded-md" />
-        <span className="text-xl font-bold ">Geek Axis</span>
+        <span className="text-xl font-bold ">Geekaxis</span>
       </div>
 
       {/* Navigation Links */}

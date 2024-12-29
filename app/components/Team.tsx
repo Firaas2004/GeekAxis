@@ -24,9 +24,9 @@ const Team = () => {
         </span>
       </Fade>
 
-      <div className="flex justify-center flex-wrap gap-6">
+      <div className="flex justify-center flex-wrap gap-6 ">
         <Fade></Fade>
-        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-1 bg-[#32343d] rounded-2xl">
+        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-4 bg-[#32343d] rounded-2xl">
           <img
             src="/mubarak.jpg"
             alt="mubarak"
@@ -46,7 +46,7 @@ const Team = () => {
             <FaInstagramSquare className="size-8" />
           </div>
         </span>
-        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-1 bg-[#32343d] rounded-2xl">
+        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-4 bg-[#32343d] rounded-2xl">
           <img
             src="/mubarak.jpg"
             alt="mubarak"
@@ -66,7 +66,7 @@ const Team = () => {
             <FaInstagramSquare className="size-8" />
           </div>
         </span>
-        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-1 bg-[#32343d] rounded-2xl">
+        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-4 bg-[#32343d] rounded-2xl">
           <img
             src="/mubarak.jpg"
             alt="mubarak"
@@ -86,7 +86,7 @@ const Team = () => {
             <FaInstagramSquare className="size-8" />
           </div>
         </span>
-        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-1 bg-[#32343d] rounded-2xl">
+        <span className="flex flex-col items-center gap-3 h-2/3 w-96  p-4 bg-[#32343d] rounded-2xl">
           <img
             src="/mubarak.jpg"
             alt="mubarak"
