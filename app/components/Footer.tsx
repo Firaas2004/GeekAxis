@@ -1,5 +1,7 @@
 import React from "react";
 import { FaFacebook, FaTwitter, FaInstagram } from "react-icons/fa";
+import Image from "next/image";
+import logo from "../../public/logo.jpeg";
 
 const Footer = () => {
   return (
@@ -9,7 +11,7 @@ const Footer = () => {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Company Info */}
           <div>
-            <img src="logo.jpeg" alt="Geek Axis Logo" className="h-12 mb-4" />
+            <Image src={logo} alt="Geek Axis Logo" height={48} width={48} className="h-12 mb-4" />
             <h2 className="text-lg font-bold">Geek Axis</h2>
             <p className="text-sm mt-2">
               Driving innovation with cutting-edge solutions for businesses

@@ -19,7 +19,7 @@ const Hero = () => {
           </Fade>
 
           <p className="text-gray-600 text-sm sm:text-base md:text-lg">
-            Expert tech to elevate your manufacturing. Let's take your business
+            Expert tech to elevate your manufacturing. Let us take your business
             further.
           </p>
           <div className="text-center">
